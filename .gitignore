@@ -1,0 +1,182 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# 单元测试/覆盖率报告
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# 环境变量
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+logs/
+log/
+
+# 图片文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.ico
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+
+# 视频文件
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+*.mkv
+*.m4v
+*.3gp
+
+# 音频文件
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+
+# 模型参数文件
+*.pt
+*.pth
+*.ckpt
+*.weights
+*.model
+*.bin
+*.onnx
+*.tflite
+*.pb
+*.savedmodel
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# 数据集文件
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+data/
+datasets/
+dataset/
+
+# 临时文件
+*.tmp
+*.temp
+temp/
+tmp/
+.tmp/
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 项目特定文件
+received_images/
+debug_images/
+output/
+results/
+runs/
+checkpoints/
+saved_models/
+models/weights/
+*.meta
+
+# 编译文件
+*.o
+*.a
+*.dll
+*.dylib
+*.so
+
+# 压缩文件
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 文档文件（可选，根据需要调整）
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# 其他
+*.bak
+*.backup
+*.old
+*.orig 

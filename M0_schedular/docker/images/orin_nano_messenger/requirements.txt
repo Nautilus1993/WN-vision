@@ -1,0 +1,9 @@
+pyyaml
+twisted
+opencv-python
+protobuf
+redis
+pyserial
+psutil 
+docker
+pillow
