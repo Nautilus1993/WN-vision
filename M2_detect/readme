@@ -1,0 +1,13 @@
+--|EarthMoonDocker
+----|data：数据集及数据处理方法
+----|Filter：滤波算法及数值仿真程序
+----|kernel：星历
+----|Net：权重参数及预测函数
+----|setting：全局配置参数
+----|star_ephemeris:星图识别程序
+----|TestData:程序处理过程中输出日志
+----|utils：工具
+----|Core_extraction.py:算法集成
+----|main.py:主函数及初始参数配置
+运行 python main.py 即可启动主程序
+配置项在setting/settingsPara.py
